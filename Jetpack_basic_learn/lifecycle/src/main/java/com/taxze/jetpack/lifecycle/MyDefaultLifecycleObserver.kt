@@ -6,7 +6,7 @@ import androidx.lifecycle.LifecycleOwner
 
 class MyDefaultLifecycleObserver : DefaultLifecycleObserver {
     companion object {
-        private const val TAG = "MyDefaultLifecycleObserve"
+        private const val TAG = "MyDefaultLifecycleObserver"
     }
 
     override fun onCreate(owner: LifecycleOwner) {
