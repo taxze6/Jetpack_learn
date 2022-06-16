@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.taxze.jetpack.lifecycle-mergeDebugResources-19:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidStudio\\androidCache.gradle\\caches\\transforms-3\\821b85c962f1f9026ce945ffd8fc79ed\\transformed\\appcompat-1.3.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
