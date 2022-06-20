@@ -5,6 +5,19 @@
       <map>
         <entry key="..\:/Project/JetPack_Taxze/Jetpack_basic_learn/app/src/main/res/layout/activity_main.xml" value="0.3572916666666667" />
         <entry key="..\:/Project/Jetpack_learn/Jetpack_basic_learn/lifecycle/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1865" />
+        <entry key="..\:/Project/Jetpack_learn/Jetpack_basic_learn/livedata_viewmodel/src/main/res/drawable/button_blue_drawable.xml" value="0.2355" />
+        <entry key="..\:/Project/Jetpack_learn/Jetpack_basic_learn/livedata_viewmodel/src/main/res/drawable/button_drawable.xml" value="0.1655" />
+        <entry key="..\:/Project/Jetpack_learn/Jetpack_basic_learn/livedata_viewmodel/src/main/res/drawable/ic_launcher_background.xml" value="0.2355" />
+        <entry key="..\:/Project/Jetpack_learn/Jetpack_basic_learn/livedata_viewmodel/src/main/res/layout/activity_livedata.xml" value="0.28229166666666666" />
+        <entry key="..\:/Project/Jetpack_learn/Jetpack_basic_learn/livedata_viewmodel/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Project/Jetpack_learn/Jetpack_basic_learn/livedata_viewmodel/src/main/res/layout/activity_main_two.xml" value="0.30978260869565216" />
+        <entry key="..\:/Project/Jetpack_learn/Jetpack_basic_learn/livedata_viewmodel/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/Project/Jetpack_learn/Jetpack_basic_learn/livedata_viewmodel/src/main/res/layout/fg_apple.xml" value="0.28229166666666666" />
+        <entry key="..\:/Project/Jetpack_learn/Jetpack_basic_learn/livedata_viewmodel/src/main/res/layout/fragment_ddddddddddddddddddddddddd.xml" value="0.3016304347826087" />
+        <entry key="..\:/Project/Jetpack_learn/Jetpack_basic_learn/livedata_viewmodel/src/main/res/layout/fragment_left.xml" value="0.33" />
+        <entry key="..\:/Project/Jetpack_learn/Jetpack_basic_learn/livedata_viewmodel/src/main/res/layout/fragment_main.xml" value="0.1322463768115942" />
+        <entry key="..\:/Project/Jetpack_learn/Jetpack_basic_learn/livedata_viewmodel/src/main/res/layout/fragment_right.xml" value="0.2890625" />
+        <entry key="..\:/Project/Jetpack_learn/Jetpack_basic_learn/livedata_viewmodel/src/main/res/layout/fragment_second.xml" value="0.1403985507246377" />
       </map>
     </option>
   </component>

@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "Jetpack_basic_learn"
 include ':app'
 include ':lifecycle'
+include ':livedata_viewmodel'

@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.taxze.jetpack.lifecycle"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:5:5-22:19
+12        android:name="com.taxze.jetpack.lifecycle.MyApplication"
+12-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:11:9-38
+13        android:allowBackup="true"
+13-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:6:9-35
+14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+14-->[androidx.core:core:1.7.0] D:\AndroidStudio\androidCache.gradle\caches\transforms-3\03f3eecfa3ef84b1526e0ae8664a269f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:icon="@mipmap/ic_launcher"
+17-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:7:9-43
+18        android:label="@string/app_name"
+18-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:8:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:9:9-54
+20        android:supportsRtl="true"
+20-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:10:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.Jetpack_basic_learn" >
+22-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:12:9-57
+23        <activity
+23-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:13:9-21:20
+24            android:name="com.taxze.jetpack.lifecycle.MainActivity"
+24-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:14:13-41
+25            android:exported="true" >
+25-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:15:13-36
+26            <intent-filter>
+26-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:16:13-20:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:17:17-69
+27-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:17:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:19:17-77
+29-->D:\Project\Jetpack_learn\Jetpack_basic_learn\lifecycle\src\main\AndroidManifest.xml:19:27-74
+30            </intent-filter>
+31        </activity>
+32
+33        <provider
+33-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\AndroidStudio\androidCache.gradle\caches\transforms-3\d31aee6cb55223371286991476bc9c44\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+34            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+34-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\AndroidStudio\androidCache.gradle\caches\transforms-3\d31aee6cb55223371286991476bc9c44\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+35            android:authorities="com.taxze.jetpack.lifecycle.lifecycle-process"
+35-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\AndroidStudio\androidCache.gradle\caches\transforms-3\d31aee6cb55223371286991476bc9c44\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+36            android:exported="false"
+36-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\AndroidStudio\androidCache.gradle\caches\transforms-3\d31aee6cb55223371286991476bc9c44\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+37            android:multiprocess="true" />
+37-->[androidx.lifecycle:lifecycle-process:2.2.0] D:\AndroidStudio\androidCache.gradle\caches\transforms-3\d31aee6cb55223371286991476bc9c44\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+38    </application>
+39
+40</manifest>
