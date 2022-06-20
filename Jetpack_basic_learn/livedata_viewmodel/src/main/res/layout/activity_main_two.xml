@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".same.MainTwoActivity">
+
+    <fragment
+        android:id="@+id/left_fragment"
+        android:name="com.taxze.jetpack.livedata_viewmodel.same.LeftFragment"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        tools:ignore="MissingConstraints" />
+
+    <fragment
+        android:id="@+id/right_fragment"
+        android:name="com.taxze.jetpack.livedata_viewmodel.same.RightFragment"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        tools:ignore="MissingConstraints" />
+
+
+</LinearLayout>
