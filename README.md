@@ -7,7 +7,7 @@
 
 [2022 · 让我带你Jetpack架构组件从入门到精通 — Lifecycle](https://juejin.cn/post/7110008681252536327)
 
-[2022 · 让我带你Jetpack架构组件从入门到精通 — ViewModel&LiveData](https://juejin.cn/post/7111600906465968165)
+[学会使用LiveData和ViewModel，我相信会让你在写业务时变得轻松🌞](https://juejin.cn/post/7111600906465968165)
 
 以下部分还在码字，赶紧点个收藏吧🔥
 
