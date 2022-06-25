@@ -7,9 +7,9 @@
 
 [2022 · 让我带你Jetpack架构组件从入门到精通 — Lifecycle](https://juejin.cn/post/7110008681252536327)
 
-以下部分还在码字，赶紧点个收藏吧🔥
+[2022 · 让我带你Jetpack架构组件从入门到精通 — ViewModel&LiveData](https://juejin.cn/post/7111600906465968165)
 
-2022 · 让我带你Jetpack架构组件从入门到精通 — ViewModel&LiveData
+以下部分还在码字，赶紧点个收藏吧🔥
 
 2022 · 让我带你Jetpack架构组件从入门到精通 — DataBinding
 
