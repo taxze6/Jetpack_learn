@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home_state"
+        android:title="首页" />
+    <item
+        android:id="@+id/linkman"
+        android:icon="@drawable/linkman"
+        android:title="联系人" />
+    <item
+        android:id="@+id/discover"
+        android:icon="@drawable/discover"
+        android:title="发现" />
+    <item
+        android:id="@+id/me"
+        android:icon="@drawable/me"
+        android:title="我的" />
+</menu>
