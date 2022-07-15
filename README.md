@@ -9,11 +9,11 @@
 
 [学会使用LiveData和ViewModel，我相信会让你在写业务时变得轻松🌞](https://juejin.cn/post/7111600906465968165)
 
+[当你真的学会DataBinding后，你会发现“这玩意真香”!](https://juejin.cn/post/7115224601830883365)
+
+[Navigation — 这么好用的导航框架你确定不来看看？](https://juejin.cn/post/7117476993372782629)
+
 以下部分还在码字，赶紧点个收藏吧🔥
-
-2022 · 让我带你Jetpack架构组件从入门到精通 — DataBinding
-
-2022 · 让我带你Jetpack架构组件从入门到精通 — Navigation
 
 2022 · 让我带你Jetpack架构组件从入门到精通 — Room
 
