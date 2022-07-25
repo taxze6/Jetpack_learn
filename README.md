@@ -1,6 +1,12 @@
 # Jetpack_learn
 掘金 - Jetpack系列文章Demo
 
+作者联系方式:
+
+WeChat 搜索用户名：Taxze2019
+
+QQ Flutter 交流群: 532403442
+
 作者博客主页:https://juejin.cn/user/598591926699358
 
 基础系列：
