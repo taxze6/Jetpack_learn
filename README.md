@@ -19,9 +19,11 @@ QQ Flutter 交流群: 532403442
 
 [Navigation — 这么好用的导航框架你确定不来看看？](https://juejin.cn/post/7117476993372782629)
 
-以下部分还在码字，赶紧点个收藏吧🔥
+[Jetpack Room — 给你一种新的数据库操作体验！](https://juejin.cn/post/7120412103390806052)
 
-2022 · 让我带你Jetpack架构组件从入门到精通 — Room
+[一年时间过去了，LiveData真的被Flow代替了吗? LiveData会被废弃吗？](https://juejin.cn/post/7122621956385406990)
+
+以下部分还在码字，赶紧点个收藏吧🔥
 
 2022 · 让我带你Jetpack架构组件从入门到精通 — Paging3
 
